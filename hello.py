@@ -1,2 +1,3 @@
 name = "Haakon"
-print(f"Hello, {name}")
+date = "current date"
+print(f"Hello, {name}! Today is {date}.")
